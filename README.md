@@ -79,3 +79,10 @@ The Real-Time Chat Application project leverages Socket.io and HarperDB to build
 - [Socket.io Documentation](https://socket.io/docs/)
 - [HarperDB Documentation](https://docs.harperdb.io/)
 
+
+## Contributors
+
+Thanks to the following contributors for their valuable contributions to this project:
+
+- [Bruhathi](https://github.com/bruhathisp)
+
